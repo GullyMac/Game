@@ -1,6 +1,6 @@
 # StarCraft2 Player Data Analysis
 
-This project is an entry for the 13th BigData Competition organized by DACON.
+This project is an entry for the 3rd Monthly Data Analysis Competition organized by DACON.
 
 DACON main : https://newfront.dacon.io/
 
@@ -8,7 +8,7 @@ Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
 Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
-20.01.18 last edit
+20.03.22 last edit
 
 ---
 
@@ -29,7 +29,7 @@ The algorithms we create can further improve player's gaming skills.
 
 ## 1. Data Set
 
-###### Data Sets are provided by DACON
+#### Data Sets are provided by DACON
 
 #### Response Variable
 
