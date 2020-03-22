@@ -6,4 +6,4 @@ DACON main : https://newfront.dacon.io/
 
 Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
-Report : https://github.com/GullyMac/jeju/blob/master/game.ipynb
+Report : https://github.com/GullyMac/game/blob/master/game.ipynb
