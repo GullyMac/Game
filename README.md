@@ -8,6 +8,8 @@ Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
 Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
+20.01.18 last edit
+
 ---
 
 ## 0. Introduction
@@ -48,20 +50,20 @@ The algorithms we create can further improve player's gaming skills.
 
 #### Data Manipulation
 
-pandas : data manipulation
-numpy : matrix operation
-random : random number generation
-time : time measurement
+* pandas : data manipulation
+* numpy : matrix operation
+* random : random number generation
+* time : time measurement
 
 #### Visualization
 
-matplotlib.pyplot : graph drawing
+* matplotlib.pyplot : graph drawing
 
 #### Modeling
 
-sklearn.model_selection.train_test_split : seperation of train and validation data set 
-sklearn.metrics : residual measurement
-catboost : CatBoost modeling
+* sklearn.model_selection.train_test_split : seperation of train and validation data set 
+* sklearn.metrics : residual measurement
+* catboost : CatBoost modeling
 
 ---
 
