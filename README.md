@@ -64,7 +64,3 @@ The algorithms we create can further improve player's gaming skills.
 * sklearn.model_selection.train_test_split : seperation of train and validation data set 
 * sklearn.metrics : residual measurement
 * catboost : CatBoost modeling
-
----
-
-## 3. Data Preprocessing
