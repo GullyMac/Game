@@ -12,15 +12,29 @@ Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
 ## 0. Introduction
 
+#### Organizer: KORAIA, DACON
+
+#### Background:
+
+
+Games and data analytics competitions have a similar context in that they compete on digital information.
+
+This tournament predicts the winner or loser based on the action data of StarCraft 2 matches.
+
+The algorithms we create can further improve player's gaming skills.
+
 ---
 
 ## 1. Data Set
 
-##### Data Sets are provided by DACON
+###### Data Sets are provided by DACON
 
-#### Response Variable : winner
+#### Response Variable
 
-#### Explanatory Variable : various variables derived from game_id, time, playaer, species, event, event_contents
+* winner
+
+#### Explanatory Variable
+* various variables derived from game_id, time, playaer, species, event, event_contents
 
 ---
 
@@ -28,23 +42,27 @@ Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
 #### Environment Setting
 
-google.colab.drive
-warnings
-os
+* google.colab.drive : mount at google drive
+* warnings : ignore warning message
+* os : directory setting
 
 #### Data Manipulation
 
-pandas : 데이터 조작, 분석
-numpy : 행렬 연산
-random : 난수 생성
-time :시간 측정
-
-#### Modeling
-
-sklearn.model_selection.train_test_split : train, validation 분리
-sklearn.metrics : 잔차 측정
-catboost : CatBoost 모델링
+pandas : data manipulation
+numpy : matrix operation
+random : random number generation
+time : time measurement
 
 #### Visualization
 
-matplotlib.pyplot : 그래프 생성
+matplotlib.pyplot : graph drawing
+
+#### Modeling
+
+sklearn.model_selection.train_test_split : seperation of train and validation data set 
+sklearn.metrics : residual measurement
+catboost : CatBoost modeling
+
+---
+
+## 3. Data Preprocessing
