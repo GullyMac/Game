@@ -14,8 +14,6 @@ Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
 ## 0. Introduction
 
-#### Organizer: KORAIA, DACON
-
 #### Background:
 
 
@@ -24,6 +22,10 @@ Games and data analytics competitions have a similar context in that they compet
 This tournament predicts the winner or loser based on the action data of StarCraft 2 matches.
 
 The algorithms we create can further improve player's gaming skills.
+
+#### Organizer: KORAIA, DACON
+
+#### Metric: AUC
 
 ---
 
