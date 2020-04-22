@@ -8,11 +8,24 @@ Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
 Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
-20.03.22 last edit
+20.04.23 last edit
 
 ---
 
-## 0. Introduction
+## 0. Environment
+
+* Language : Python
+* Editor : Google Colaboratory (Jupyter Notebook)
+* CPU : Intel® Xeon®
+* RAM : about 25GB
+* Disk : about 68GB
+* GPU : Tesla P100
+** Performance can change depending on the hardware allocated by Colab.
+** When using GPU, there are minute differences in result.
+
+---
+
+## 1. Introduction
 
 #### Background:
 
@@ -29,7 +42,7 @@ The algorithms we create can further improve player's gaming skills.
 
 ---
 
-## 1. Data Set
+## 2. Data Set
 
 #### Data Sets are provided by DACON
 
@@ -42,7 +55,7 @@ The algorithms we create can further improve player's gaming skills.
 
 ---
 
-## 2. Library
+## 3. Library
 
 #### Environment Setting
 
