@@ -6,7 +6,7 @@ DACON main : https://newfront.dacon.io/
 
 Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
-Report : https://github.com/GullyMac/game/blob/master/game.ipynb
+Report : https://github.com/GullyMac/Game/blob/master/game.ipynb
 
 20.04.23 last edit
 
@@ -18,6 +18,7 @@ Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 * Editor : Google Colaboratory (Jupyter Notebook)
 
    ! Performance can change depending on the hardware allocated by Colab.
+   
 * CPU : Intel® Xeon®
 * RAM : about 25GB
 * Disk : about 68GB
@@ -83,6 +84,6 @@ The algorithms we create can further improve player's gaming skills.
 * sklearn.model_selection.KFold : k-fold cross validation
 * sklearn.metrics : residual measurement
 * bayes_opt : Bayesian optimization
-* functools.partial : freeze a function’s arguments
+* functools.partial : freeze function’s arguments
 * catboost : CatBoost modeling
 * lightgbm : lightGBM modeling
