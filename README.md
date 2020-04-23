@@ -71,6 +71,7 @@ The algorithms we create can further improve player's gaming skills.
 * numpy : matrix operation
 * random : random number generation
 * time : time measurement
+* re : use regular expressions
 
 #### Visualization
 
@@ -78,7 +79,11 @@ The algorithms we create can further improve player's gaming skills.
 
 #### Modeling
 
-* sklearn.model_selection.train_test_split : seperation of train and validation data set 
+* sklearn.model_selection.train_test_split : seperate train and validation data set
+* sklearn.model_selection.KFold : k-fold cross validation
 * sklearn.metrics : residual measurement
+* bayes_opt : Bayesian optimization
+* functools.partial : freeze a function’s arguments
 * catboost : CatBoost modeling
 * lightgbm : lightGBM modeling
+
