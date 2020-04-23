@@ -23,7 +23,7 @@ Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 * Disk : about 68GB
 * GPU : Tesla P100
 
-   ! When using GPU, there are minute differences in result.
+   ! When using GPU, there are a little of differences in result.
 
 ---
 
