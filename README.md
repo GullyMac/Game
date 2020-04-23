@@ -16,13 +16,11 @@ Report : https://github.com/GullyMac/game/blob/master/game.ipynb
 
 * Language : Python
 * Editor : Google Colaboratory (Jupyter Notebook)
+   ! Performance can change depending on the hardware allocated by Colab.
 * CPU : Intel® Xeon®
 * RAM : about 25GB
 * Disk : about 68GB
 * GPU : Tesla P100
-
-   ! Performance can change depending on the hardware allocated by Colab.
-
    ! When using GPU, there are minute differences in result.
 
 ---
