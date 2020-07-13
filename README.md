@@ -89,3 +89,4 @@ The algorithms we create can further improve player's gaming skills.
 * functools.partial : freeze function’s arguments
 * catboost : CatBoost modeling
 * lightgbm : lightGBM modeling
+
