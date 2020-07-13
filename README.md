@@ -6,7 +6,9 @@ DACON main : https://newfront.dacon.io/
 
 Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
-Report : https://github.com/GullyMac/Game/blob/master/game.ipynb
+Source Code : https://github.com/GullyMac/Game/blob/master/game.ipynb
+
+Report : https://github.com/GullyMac/Game/blob/master/report.pdf
 
 20.04.23 last edit
 
