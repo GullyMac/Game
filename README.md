@@ -1,16 +1,21 @@
 # StarCraft2 Player Data Analysis
 
-This project is an entry for the 3rd Monthly Data Analysis Competition organized by DACON.
+This project is an entry for the 3rd Monthly Data Analysis Competition organized by DACON. (2nd Winner)
+
+> 3-person Team Project\
+> Period : 20.03.01 ~ 20.04.15 (about 1.5months)\
+> Subject : Binary Classification\
+> Role : Data Preprocessing, Source code customizing
 
 DACON main : https://newfront.dacon.io/
 
 Competition Info. : https://dacon.io/competitions/official/235583/overview/
 
-Source Code : https://github.com/GullyMac/Game/blob/master/game.ipynb
+Source Code : https://github.com/GullyMac/Game/blob/master/game_code.ipynb
 
-Report : https://github.com/GullyMac/Game/blob/master/report.pdf
+Report : https://github.com/GullyMac/Game/blob/master/game_report.pdf
 
-20.04.23 last edit
+20.08.20 last edit
 
 ---
 
@@ -33,7 +38,6 @@ Report : https://github.com/GullyMac/Game/blob/master/report.pdf
 ## 1. Introduction
 
 #### Background:
-
 
 Games and data analytics competitions have a similar context in that they compete on digital information.
 
